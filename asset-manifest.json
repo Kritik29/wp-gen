@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kritik29/wp-gen/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Kritik29/wp-gen/static/js/main.99b55a1b.chunk.js",
+    "main.js.map": "/Kritik29/wp-gen/static/js/main.99b55a1b.chunk.js.map",
+    "runtime-main.js": "/Kritik29/wp-gen/static/js/runtime-main.2780e757.js",
+    "runtime-main.js.map": "/Kritik29/wp-gen/static/js/runtime-main.2780e757.js.map",
+    "static/js/2.8586f689.chunk.js": "/Kritik29/wp-gen/static/js/2.8586f689.chunk.js",
+    "static/js/2.8586f689.chunk.js.map": "/Kritik29/wp-gen/static/js/2.8586f689.chunk.js.map",
+    "index.html": "/Kritik29/wp-gen/index.html",
+    "precache-manifest.6f48666371ac55ea08861b27bed02f50.js": "/Kritik29/wp-gen/precache-manifest.6f48666371ac55ea08861b27bed02f50.js",
+    "service-worker.js": "/Kritik29/wp-gen/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Kritik29/wp-gen/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8586f689.chunk.js.LICENSE.txt": "/Kritik29/wp-gen/static/js/2.8586f689.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2780e757.js",
+    "static/js/2.8586f689.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.99b55a1b.chunk.js"
+  ]
+}
